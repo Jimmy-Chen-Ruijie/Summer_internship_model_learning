@@ -1,0 +1,4 @@
+conda install pytorch torchvision cudatoolkit=10.2 -c pytorch
+pip install pandas
+pip install tensorboard
+pip install pyyaml
